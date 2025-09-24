@@ -51,12 +51,9 @@ Suka bikin UI yang bersih, aesthetic, dan performa-minded. 🚀
 
 ### 📊 GitHub Stats
 <!-- Replace YOUR_GITHUB_USERNAME -->
-![Danang GitHub stats](https://github-readme-stats.vercel.app/api?username=danang487&show_icons=true&locale=id&theme=tokyonight)
+![Danang GitHub stats](https://github-readme-stats.vercel.app/api?username=danang487&show_icons=true&locale=id&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danang487&layout=compact&theme=tokyonight)
-
-<!-- Optional streak / contribution graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=danang487&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danang487&layout=compact&theme=radical)
 
 ---
 

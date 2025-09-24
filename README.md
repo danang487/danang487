@@ -55,5 +55,9 @@ Suka bikin UI yang bersih, aesthetic, dan performa-minded. 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danang487&layout=compact&theme=gruvbox)
 
+<!-- Optional streak / contribution graph -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=danang487&theme=react-dark)
+
+
 ---
 
